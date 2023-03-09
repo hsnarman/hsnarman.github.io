@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<!-- saved from url=(0046)http://mupfc.marshall.edu/~lewis504/index.html -->
+<html class="gr__mupfc_marshall_edu"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+    font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.main {
+    margin-left: 160px; /* Same as the width of the sidenav */
+    font-size: 28px; /* Increased text to enable scrolling */
+    padding: 0px 10px;
+    
+}
+
+p{text-align: justify;}
+
+.dotted {border: 1px dotted #000000; border-style: none none dotted; color: #fff; background-color: #fff; }
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body data-gr-c-s-loaded="true">
+
+<div class="sidenav">
+    <img style="padding-right: -50px;"src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Marshall_University_logo.svg/200px-Marshall_University_logo.svg.png"
+  width = "150" height = "100">
+  <h1 style="color:green;" align="center">Jared Lewis</h1>
+  <a href="http://mupfc.marshall.edu/~lewis504/index.html#about">About</a>
+  <a href="http://mupfc.marshall.edu/~lewis504/index.html#project">Project</a>
+  <a href="http://mupfc.marshall.edu/~lewis504/index.html#weekly">Reports</a>
+  <a href="http://mupfc.marshall.edu/~lewis504/index.html#resource">Resources</a>
+</div>
+
+<div class="main">
+  <section id="about">
+        <h2>About</h2>
+        <p>Hello! I am Jared Lewis, a Senior at Marshall University studying Computer Science. 
+        If you would like to learn more about me and my expertise, please look at my profiles here:</p>
+		  <p><a href="https://www.linkedin.com/in/jared-lewis-3743aa148/" target="_blank">LinkedIn</a></p>
+		  <p><a href="https://github.com/JaredLLewis" target="_blank">GitHub</a></p>
+        
+  </section>
+  <hr>
+   
+  <section id="project">
+        <h2>The Project</h2>
+        <p>During the spring semester of 2018, I am working with my mentor Dr. Husnu Narman and fellow group member 
+        Geanina to develop a tool that uses various API's to analyze an IP addresses reputability. We have the developed the capability for this, however, we are wanting to extend it to be able to use machine learning to identify an IP Address and determine its reputability. The demand for this is high, as its impossible for blacklists to locate every single malicious domain. On this web page, I will be recording a weekly 
+        blog of my research as well as posting the resources I have been using to develop this project.</p>
+        
+  </section>       
+  <hr>
+  
+  <section id="weekly">
+        <h2>Reports</h2>
+         
+         <h3>Week One</h3>
+         
+         <p>During the first week, I began to familiarize myself with the project description as well as begin to learn machine learning. The web application has already 
+         been created by my group member using PHP, however, it still needs a lot of work and needs a machine learning implementation.</p>
+         <hr class="dotted">
+         <h3>Week Two</h3>
+         
+         <p>On the second week, I implemented a small python project that utilized supervised learning with logistic regression. 
+         It has an excel spreadsheet of over 300,000 URL's and classified them as good or bad. It managed to get an accuracy rating of 96% when using 20% of the data set for training, 
+         however, using only URL information is not enough to accurately classify URL's and determine if they are malicious.</p>
+         <hr class="dotted">
+         
+         <h3>Week Three</h3>
+         
+         <p>This week I developed a python project that will run daily API scans and dump the results to a SQL Lite3 database. 
+         I also created a serializer for my machine learning implementation so we can begin implementing it on the web application. This is still an extremely rudimentary form of what a good classifier should look at by the end of this project, 
+         however, it will give us an idea of the requirements necessary for it to perform on the application.</p>
+		 
+		 <h3>Week Four</h3>
+		 <p>During the fourth week, I implemented the python project with the front end of the PHP application. It populates a HTML table and reads the SQLite database file.
+		 I also implemented the machine learning python file with the project so we can demo this for our presentation. </p>
+		 <h3>Week Five </h3>
+		 <p>On the fifth week, we presented our project to some of the staff members at Marshall University as well as some other students who are participating in research projects. The presentation went okay, however,
+		  a lot more work is required for the machine learning to be applicable to a real application. </p>
+		  <h3>Week Six </h3>
+		 <p>On the sixth week, we were asked from one of the professors at Marshall University to re-design the website. A system diagram was prepared as well as a wire diagram for the new design of the web application. </p>
+         <h3>Week Seven </h3>
+		 <p>On the seventh week, some adjustment was made to the diagram and we are currently still waiting approval for the design before implementing it. </p>
+		 <h3>Week Eight </h3>
+		 <p>On this week, we discussed some of the challenges in preparing a dynamic data-set. Using selenium, a crawler was made to gather IP's from mass black-lists. However, more features are required for IP's, most important,
+			geo information. </p>
+		<h3>Week Nine </h3>
+		 <p>This week we used an API to obtain geo location information on ip address entries. Ip addresses were crawled on websites using selenium. </p>
+		 <h3>Week Ten </h3>
+		 <p>This week we developed papers for the project to apply for the West Virginia Undergraduate day at the capitol. </p>
+		 <h3>Week Eleven </h3>
+		 <p>A New design has been made and is being implemented. </p>
+		 <h3>Week Twelve</h3>
+		 <p>The new design has been implemented into the application, it features a new home page with new reporting for a more cleaner look. Instead of a black/blue theme, we opted for a clean white, modern background. The application in its prototype has been built. We are planning on meeting with our mentor to discuss its progress next week. </p>
+		  <h3>Week Thirteen</h3>
+		 <p> We met with our mentor this week and discussed the application's progress. Some changes were recommended and also modifications were offered in regard to our research papers. </p>
+		 <h3>Week Fourteen</h3>
+		 <p> This week on finals week I modified my research papers for my mentor to review them. </p>
+		 
+		 
+			
+         
+         
+         
+         
+  </section>
+  <hr>
+  
+  <section id="resource">
+        <h2>Resources</h2>
+		The first version of machine learning is implemented using supervised learning under logistic regression. You can learn more about this type of learning <a href="https://machinelearningmastery.com/logistic-regression-for-machine-learning/" target="_blank">here</a>.
+         
+         <h3>Papers</h3>
+         
+         
+         <h3>Tools</h3>
+  </section>
+  
+  </div>
+     
+
+ 
+</body><span class="gr__tooltip"><span class="gr__tooltip-content"></span><i class="gr__tooltip-logo"></i><span class="gr__triangle"></span></span></html>
