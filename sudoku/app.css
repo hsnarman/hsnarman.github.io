@@ -40,7 +40,7 @@
 }
 
 body {
-    font-family: "Poppins", cursive;
+    font-family: "Poppins";
     /* height: 100vh; */
     background-color: var(--bg-body);
     overflow-x: hidden;
@@ -48,7 +48,7 @@ body {
 }
 
 input {
-    font-family: "Poppins", cursive;
+    font-family: "Poppins";
     border: 2px solid var(--bg-main);
     color: var(--color-txt);
 }
