@@ -40,7 +40,7 @@
 }
 
 body {
-    font-family: "Potta One", cursive;
+    font-family: "Poppins", cursive;
     /* height: 100vh; */
     background-color: var(--bg-body);
     overflow-x: hidden;
@@ -48,7 +48,7 @@ body {
 }
 
 input {
-    font-family: "Potta One", cursive;
+    font-family: "Poppins", cursive;
     border: 2px solid var(--bg-main);
     color: var(--color-txt);
 }
