@@ -11,7 +11,7 @@
     --black: #000;
 
     --nav-size: 70px;
-    --sudoku-cell-size: 50px;
+    --sudoku-cell-size: 60px;
 
     --border-radius: 10px;
 
@@ -19,9 +19,9 @@
 
     --gap: 5px;
 
-    --font-size: 1.5rem;
-    --font-size-lg: 2rem;
-    --font-size-xl: 3rem;
+    --font-size: 2rem;
+    --font-size-lg: 2.5rem;
+    --font-size-xl: 3.5rem;
 }
 
 .dark {
@@ -412,7 +412,7 @@ nav {
     :root {
         --nav-size: 50px;
 
-        --sudoku-cell-size: 30px;
+        --sudoku-cell-size: 40px;
 
         --border-radius: 5px;
 
@@ -420,9 +420,9 @@ nav {
 
         --gap: 2px;
 
-        --font-size: 1rem;
-        --font-size-lg: 1.5rem;
-        --font-size-xl: 2rem;
+        --font-size: 1.5rem;
+        --font-size-lg: 2rem;
+        --font-size-xl: 2.5rem;
     }
 
     .input-name,
