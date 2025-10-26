@@ -1,0 +1,19 @@
+User-agent: *
+
+Disallow: /.git
+
+Disallow: /.gitattributes
+
+Disallow: /img/
+
+Disallow: /media/
+
+Disallow: /projects/
+
+Disallow: /SR/
+
+Disallow: /summercamp/CSA-Z/img/previous/
+
+Disallow: /git-delete-history.txt
+
+Sitemap: https://hsnarman.github.io/sitemap.xml
