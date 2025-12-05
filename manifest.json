@@ -1,0 +1,17 @@
+{
+    "short_name": "Narman",
+    "name": "Husnu Narman",
+    "description": "Personal Website",
+    "icons": [
+      {
+        "src": "\/img\/author_image.png",
+        "type": "image\/png",
+        "sizes": "195x195"
+      }
+    ],
+    "start_url": "\/index.html",
+    "background_color": "#8C8F96",
+    "display": "standalone",
+    "scope": "\/",
+    "theme_color": "#202020"
+  }
