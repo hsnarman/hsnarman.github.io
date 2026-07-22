@@ -1,367 +1,935 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
-
-<url>
-  <loc>https://hsnarman.github.io/</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/cv/HusnuNarman.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/summercamp/CSA-Z/</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/JOURN/19-DA-DRLS.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/JOURN/18-Review-TITS.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/JOURN/19-Popularity.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/PRESNT/Slides-18-WTS-PPHA.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/JOURN/18-CSIoT-TCPS.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/JOURN/18-PMCR-TPDS.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/JOURN/17-TMC-WSN.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/JOURN/16-ANT-CIoT.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/JOURN/16-CN-Joint-Selective-LTE-A.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/JOURN/15-WPC-MBR-Scheduling-SM.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/CONF/20-ICNC-TopComment.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/PRESNT/Slides-20-ICNC-TopComments.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/CONF/20-ICNC-IpReputation.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/PRESNT/Slides-20-ICNC-IPReputation.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/CONF/19-HONET-ICT-Matching.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/PRESNT/Slides-19-HONET-Matching.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/CONF/19-MILCOM-Hijacking.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/PRESNT/Slides-19-MILCOM-Hijacking.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/CONF/19-MILCOM-Botnet.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/PRESNT/Slides-19-MILCOM-Botnet.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/CONF/19-GC-T-Tool.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/PRESNT/Slides-19-GC-T-Tool.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/CONF/18-ISSPIT-CryptoEducation.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/PRESNT/Slides-18-ISSPIT-EducationCrypto.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/CONF/18-ISSPIT-SurveyEVWC.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/PRESNT/Slides-18-ISSPIT-SurveyEVWC.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/CONF/18-WTS-PopularityMedia.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/CONF/18-WTS-Recommendation.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/PRESNT/Slides-18-WTS-PSLCRS.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/CONF/16-BIGDATA-CCRP.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/PRESNT/Slides-16-BigData-CCRP.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/CONF/16-QSHINE-PCC-Asg.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/PRESNT/Slides-16-QSHINE-PCC-Grant.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/CONF/15-GC-Se-CC-Asg.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/PRESNT/Slides-15-GC-Se-CC-Asg.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/CONF/15-GC-Mn-CC-Asg.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/PRESNT/Slides-15-GC-Mn-CC-Asg.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/CONF/15-WCNC-NGN-MBR-Energy.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/PRESNT/Slides-15-WCNC-NGN-MBR-Energy.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/CONF/15-WCNC-Upr-CC-Asg.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/PRESNT/Slides-15-WCNC-Upr-CC-Asg.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/CONF/14-GC-BWA-Upr-Rnd-CC-Asg.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/PRESNT/Slides-14-GC-BWA-Upr-Rnd-CC-Asg.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/CONF/14-ICC-HetDDSS-Cloud.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/PRESNT/Slides-14-ICC-HetDDSS-Cloud.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/CONF/14-ICC-DDSS-Cloud.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/PRESNT/Slides-14-ICC-DDSS-Cloud.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/CONF/13-GC-MBR-Scheduling-Single.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/PRESNT/Slides-13-GC-MBR-Scheduling-Single.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/CONF/13-ICC-MBR-Scheduling-Multi.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/PRESNT/Slides-13-ICC-MBR-Scheduling-Multi.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/CONF/13-ICNC-Topology.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/PRESNT/Slides-13-ICNC-Topology.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/PRESNT/2016-Defense.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/PRESNT/Pre-dissertation.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/PRESNT/GEP2.pdf</loc>
-  <lastmod>2020-03-20T05:06:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/PRESNT/project.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/TR/17-Predictive-TR-MU-CITE-17-100.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/TR/14-User-Profile-TR-OU-TNRL-14-102.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/TR/14-Lte-Cc-Static-TR-OU-TNRL-14-101.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/TR/13-cloud-priority-TR-OU-TNRL-13-102.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/TR/13-Multi_band_multi_TR-OU-TNRL-13-101.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/TR/12-Multi_Band_Single_TR-OU-TNRL-12-101.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/TR/12-GE_Report.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/TR/11-utsa_ind_report.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/TR/09-Hamming_Code_based_Media_Processing.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/THESIS/HusnuNarmanDissertation.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://hsnarman.github.io/summercamp/CSA-Z/location/location.pdf</loc>
-  <lastmod>2020-03-20T05:06:20+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
+  <url>
+       <loc>https://hsnarman.github.io/</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/cv/HusnuNarman.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/summercamp/CSA-Z/</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/AWARD/26-AIIoT-Best_Presentation.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/AWARD/25-UEMCON-Best_Presentation.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/AWARD/24-IEMCON-Best_Presentation.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/AWARD/24-IEMCON-Best_Papers.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/AWARD/23-ISEC-Virtual-Camp-Best_Papers.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/AWARD/20-EDI40-Ride-Sharing-Best-Paper.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/AWARD/21-IoTDI_Service_Award.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/AWARD/16_OU_PHD_Award.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/AWARD/23-Patent-OralTherapyTool.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/JOURN/26-Frontier-Safety.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/JOURN/26-Frontier-Benchmark.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/JOURN/25-Access-Gauge-Deviation.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/JOURN/24-AICE-CrackEarthquake.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/JOURN/23-Sensor-Cyber.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/JOURN/22-Access-Random_Partition.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/JOURN/22-Zone-Walking.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-20-WTS-Novel-Zone-Walking.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/JOURN/20-CarSharing.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/JOURN/20-MRR.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/JOURN/19-DA-DRLS.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/JOURN/18-Review-TITS.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/JOURN/19-Popularity.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-18-WTS-PPHA.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/JOURN/18-CSIoT-TCPS.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/JOURN/18-PMCR-TPDS.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/JOURN/17-TMC-WSN.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/JOURN/16-ANT-CIoT.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/JOURN/16-CN-Joint-Selective-LTE-A.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/JOURN/15-WPC-MBR-Scheduling-SM.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/26-AIIoT-Webapp.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/26-AIIoT-Veg.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/26-AIIoT-Ballast.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/26-ASCE-Safety.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/26-ROSE-Training-1.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/26-ROSE-Training-2.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/25-UEMCON-Veg.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-25-UEMCON-Railroad-Vegetation.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/25-UEMCON-Ties.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-25-UEMCON-Railroad-Ties.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/25-ASCE-I3CE-FireArm.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/25-ASCE-I3CE-MissingBolts.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-25-ASCE-I3CE-MissingBolts.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/25-ASEE-PWS-Mindset.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-25-ASEE-PWS-Mindset.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/25-ASEE-LabelingRailroadBallast.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-25-ASEE-LabelingRailroadBallast.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/25-ISEC-CybersecurityEducation.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-25-ISEC-CybersecurityEducation.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/24-IEMCON-Crack.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-24-IEMCON-Crack-Detection.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/24-IEMCON-Gauge.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-24-IEMCON-Gauge-Deviation.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/24-UEMCON-AIPython.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-24-UEMCON-AI-Python.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/24-UEMCON-Biomass.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-24-UEMCON-BioMass.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/24-ISEC-MuseumSpace.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-24-ISEC-Space-Museum.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/24-ICCE-Drone.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-24-ICCE-Drone-SmallObject.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/23-FNC-XAI.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/23-BLACKSEA-MalwareDetection.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-23-BlackSea-Malware-Detection.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/23-ISEC-GenCyberVirtual.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/23-ISEC-MuseumArt.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/22-IEMCON-Encryption.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-22-IEMCON-Encryption.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/22-GHTC-Feedback.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/22-GHTC-CSPCS.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/21-IEMCON-Energy.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-21-IEMCON-Energy.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/21-IEMCON-Sewer.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-21-IEMCON-Sewer.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/21-CyberTech-Ransomware.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-21-CyberTech-Ransomware.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/21-HONET-ICT-CIMA.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/21-MobiSPC-MalwarePrediction.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-21-MobiSPC-Malware.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/21-BLACKSEA-PhishingDetection.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-21-BlackSeaCom-PhishingWebsiteDetection.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/20-ITNAC-Intrusion.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-20-ITNAC-Intrusion.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/20-ITNAC-LightGBM.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-20-ITNAC-LightGBM.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/20-UEMCON-Dengue.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-20-UEMCON-Eth-Crowd.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/20-UEMCON-Scada.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/20-CS-SpaceFog.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-20-CloudSummit-SIN.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/20-GHTC-ARDataStructures.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-20-GHTC-ARCSE.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/20-WTS-Prevent-Hijacking.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-20-WTS-Prevent-Hijacking.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/20-EDI40-Ride-Sharing.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-20-EDI40-Ride-Sharing.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/20-EDI40-Civil-Health-Monitoring.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/20-ANT-Drone-App.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/20-ICNC-TopComment.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-20-ICNC-TopComments.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/20-ICNC-IpReputation.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-20-ICNC-IPReputation.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/19-HONET-ICT-Matching.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-19-HONET-Matching.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/19-MILCOM-Hijacking.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-19-MILCOM-Hijacking.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/19-MILCOM-Botnet.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-19-MILCOM-Botnet.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/19-GC-T-Tool.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-19-GC-T-Tool.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/18-ISSPIT-CryptoEducation.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-18-ISSPIT-EducationCrypto.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/18-ISSPIT-SurveyEVWC.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-18-ISSPIT-SurveyEVWC.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/18-WTS-Recommendation.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-18-WTS-PSLCRS.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/16-BIGDATA-CCRP.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-16-BigData-CCRP.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/16-QSHINE-PCC-Asg.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-16-QSHINE-PCC-Grant.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/15-GC-Se-CC-Asg.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-15-GC-Se-CC-Asg.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/15-GC-Mn-CC-Asg.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-15-GC-Mn-CC-Asg.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/15-WCNC-NGN-MBR-Energy.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-15-WCNC-NGN-MBR-Energy.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/15-WCNC-Upr-CC-Asg.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-15-WCNC-Upr-CC-Asg.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/14-GC-BWA-Upr-Rnd-CC-Asg.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-14-GC-BWA-Upr-Rnd-CC-Asg.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/14-ICC-HetDDSS-Cloud.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-14-ICC-HetDDSS-Cloud.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/14-ICC-DDSS-Cloud.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-14-ICC-DDSS-Cloud.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/13-GC-MBR-Scheduling-Single.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-13-GC-MBR-Scheduling-Single.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/13-ICC-MBR-Scheduling-Multi.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-13-ICC-MBR-Scheduling-Multi.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/13-ICNC-Topology.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/PRESNT/Slides-13-ICNC-Topology.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/CONF/20-WTS-ZoneWalking.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/TR/17-Predictive-TR-MU-CITE-17-100.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/TR/14-User-Profile-TR-OU-TNRL-14-102.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/TR/14-Lte-Cc-Static-TR-OU-TNRL-14-101.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/TR/13-cloud-priority-TR-OU-TNRL-13-102.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/TR/13-Multi_band_multi_TR-OU-TNRL-13-101.pdf</loc>
+       <lastmod>2026-07-09T23:35:35+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/TR/12-Multi_Band_Single_TR-OU-TNRL-12-101.pdf</loc>
+       <lastmod>2026-07-09T23:35:35+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/TR/12-GE_Report.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/TR/11-utsa_ind_report.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/TR/09-Hamming_Code_based_Media_Processing.pdf</loc>
+       <lastmod>2026-07-09T23:35:35+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/THESIS/HusnuNarmanDissertation.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/summercamp/CSA-Z/location/location.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://hsnarman.github.io/summercamp/CSA-Z/location/campusmap.pdf</loc>
+       <lastmod>2026-07-09T23:35:34+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
 </urlset>
